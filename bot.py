@@ -1,3 +1,6 @@
+"""
+selenium based bot to guess countries on geohunter game
+"""
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -12,7 +15,7 @@ from time import sleep
 from load_rankings import load_rankings
 
 OPTIONS = ['population', 'football', 'small size', 'corruption', 'forest cover', 'basketball', 'pollution', 'cuisine']
-TARGET_SCORE = 119
+TARGET_SCORE = 119  # change this to your desired score the bot tries to achieve
 EMAIL = 'uhtanynraohnggjqsd@xfavaj.com'
 EMAIL = 'famac18739@agenra.com'
 EMAIL = 'k0azfu14@trashlify.com'
@@ -97,6 +100,7 @@ def game_loop(driver, dicts) -> bool:
     if score <= TARGET_SCORE:
         print('YES!')
         sleep(999)
+        exit()
     return True
 
 
