@@ -1,0 +1,101 @@
+Population,Football,Small Size,Corruption,Forest Cover,Basketball,Pollution,Cuisine
+1. India,1. Spain,1. Vatican City,1. South Sudan,1. Suriname,1. United States,1. Bangladesh,1. Greece
+2. China,2. France,2. Monaco,2. Somalia,2. Guyana,2. Germany,2. India,2. Italy
+3. United States,3. Argentina,3. Nauru,3. Venezuela,3. Micronesia,3. Serbia,3. Nepal,3. Mexico
+4. Indonesia,4. United Kingdom,4. Tuvalu,4. Syria,4. Gabon,4. France,4. Qatar,4. Spain
+5. Pakistan,5. Portugal,5. San Marino,5. Yemen,5. Palau,5. Canada,5. Pakistan,5. Portugal
+6. Nigeria,6. Brazil,6. Liechtenstein,6. Libya,6. Solomon Islands,6. Australia,6. DR Congo,6. Turkey
+7. Brazil,7. Netherlands,7. Marshall Islands,7. Eritrea,7. Equatorial Guinea,7. Spain,7. Burundi,7. Indonesia
+8. Bangladesh,8. Belgium,8. Saint Kitts and Nevis,8. Equatorial Guinea,8. Papua New Guinea,8. Argentina,8. Rwanda,8. France
+9. Russia,9. Croatia,9. Maldives,9. Nicaragua,9. Liberia,9. Lithuania,9. Equatorial Guinea,9. Japan
+10. Mexico,10. Italy,10. Malta,10. Sudan,10. Finland,10. Brazil,10. Cameroon,10. China
+11. Japan,11. Morocco,11. Grenada,11. North Korea,11. Seychelles,11. Latvia,11. Republic of the Congo,11. Poland
+12. Philippines,12. Germany,12. Saint Vincent and the Grenadines,12. Myanmar,12. Saint Vincent and the Grenadines,12. Turkey,12. Iraq,12. India
+13. Ethiopia,13. Colombia,13. Barbados,13. Haiti,13. Brunei,13. Greece,13. Mongolia,13. United States
+14. DR Congo,14. Mexico,14. Antigua and Barbuda,14. Turkmenistan,14. Laos,14. Slovenia,14. Bolivia,14. Peru
+15. Egypt,15. Uruguay,15. Seychelles,15. Burundi,15. Bhutan,15. Italy,15. Myanmar,15. Serbia
+16. Vietnam,16. United States,16. Palau,16. Afghanistan,16. Guinea-Bissau,16. Finland,16. China,16. Brazil
+17. Iran,17. Switzerland,17. Andorra,17. Tajikistan,17. Sweden,17. Montenegro,17. Lesotho,17. Croatia
+18. Turkey,18. Senegal,18. Saint Lucia,18. DR Congo,18. Japan,18. Poland,18. Uganda,18. Colombia
+19. Germany,19. Japan,19. Micronesia,19. Zimbabwe,19. South Korea,19. Georgia,19. Saudi Arabia,19. Vietnam
+20. France,20. Denmark,20. Singapore,20. Guinea-Bissau,20. kaki,20. Dominican Republic,20. El Salvador,20. Hungary
+21. United Kingdom,21. Iran,21. Tonga,21. Comoros,21. Dominica,21. Japan,21. Gabon,21. Algeria
+22. Thailand,22. Austria,22. Dominica,22. Chad,22. Fiji,22. Japan,22. Peru,22. South Korea
+23. South Africa,23. South Korea,23. Bahrain,23. Cambodia,23. Timor-Leste,23. Czech Republic,23. Guatemala,23. Germany
+24. Tanzania,24. Ecuador,24. Kiribati,24. Russia,24. Montenegro,24. South Sudan,24. Nigeria,24. Romania
+25. Italy,25. Australia,25. Sao Tome and Principe,25. Lebanon,25. Slovenia,25. New Zealand,25. Central African Republic,25. Argentina
+26. Colombia,26. Canada,26. Comoros,26. Honduras,26. kaki,26. Iran,26. Honduras,26. Lebanon
+27. Kenya,27. Turkey,27. Mauritius,27. Azerbaijan,27. Zambia,27. China,27. Bosnia and Herzegovina,27. Czech Republic
+28. Myanmar,28. Ukraine,28. Luxembourg,28. Iran,28. Brazil,28. Venezuela,28. Vietnam,28. Thailand
+29. South Korea,29. Panama,29. Samoa,29. Republic of the Congo,29. Malaysia,29. Angola,29. Laos,29. Georgia
+30. Sudan,30. Norway,30. Cape Verde,30. Bangladesh,30. Samoa,30. Lebanon,30. South Africa,30. Tunisia
+31. Spain,31. Sweden,31. Trinidad and Tobago,31. Paraguay,31. Estonia,31. Mexico,31. Chile,31. Austria
+32. Algeria,32. Russia,32. Brunei,32. Central African Republic,32. Panama,32. Israel,32. Syria,32. Chile
+33. Argentina,33. Serbia,33. Palestine,33. Mozambique,33. Honduras,33. Bosnia and Herzegovina,33. Bhutan,33. Bulgaria
+34. Uganda,34. Egypt,34. Cyprus,34. Kyrgyzstan,34. Peru,34. Croatia,34. Bahrain,34. Russia
+35. Iraq,35. Poland,35. Lebanon,35. Guatemala,35. Jamaica,35. Belgium,35. Zambia,35. South Africa
+36. Afghanistan,36. Paraguay,36. Jamaica,36. Uganda,36. Belize,36. Ivory Coast,36. Kuwait,36. Philippines
+37. Canada,37. Algeria,37. Gambia,37. Nigeria,37. Latvia,37. Philippines,37. Thailand,37. Malaysia
+38. Uzbekistan,38. Czech Republic,38. Qatar,38. Mexico,38. DR Congo,38. Jordan,38. Turkey,38. Morocco
+39. Poland,39. Greece,39. Vanuatu,39. Madagascar,39. Colombia,39. Estonia,39. Angola,39. Lithuania
+40. Morocco,40. Hungary,40. Montenegro,40. Iraq,40. Sao Tome and Principe,40. Sweden,40. South Korea,40. Egypt
+41. Angola,41. Slovakia,41. Bahamas,41. Cameroon,41. Angola,41. Ukraine,41. United Arab Emirates,41. Iran
+42. Malaysia,42. Ivory Coast,42. Timor-Leste,42. Pakistan,42. Venezuela,42. Egypt,42. Jordan,42. Syria
+43. Peru,43. Nigeria,43. Eswatini,43. Mali,43. Marshall Islands,43. United Kingdom,43. Armenia,43. Canada
+44. Mozambique,44. Tunisia,44. Kuwait,44. Liberia,44. Grenada,44. Uruguay,44. Philippines,44. Ukraine
+45. Ghana,45. Costa Rica,45. Fiji,45. Gabon,45. Bahamas,45. Senegal,45. Egypt,45. Netherlands
+46. Ukraine,46. Peru,46. Slovenia,46. Eswatini,46. Tanzania,46. Iceland,46. Sri Lanka,46. Palestine
+47. Yemen,47. Venezuela,47. El Salvador,47. Guinea,47. Ecuador,47. Portugal,47. North Macedonia,47. North Macedonia
+48. Saudi Arabia,48. Slovenia,48. Israel,48. Bolivia,48. Russia,48. Hungary,48. Bulgaria,48. United Kingdom
+49. Madagascar,49. Romania,49. Belize,49. Mauritania,49. North Korea,49. Cape Verde,49. Iran,49. Ethiopia
+50. Ivory Coast,50. Cameroon,50. Djibouti,50. El Salvador,50. Indonesia,50. Tunisia,50. Uzbekistan,50. Cyprus
+51. Nepal,51. Qatar,51. North Macedonia,51. Egypt,51. Austria,51. Bahamas,51. Lebanon,51. Saudi Arabia
+52. Cameroon,52. Uzbekistan,52. Rwanda,52. Peru,52. Vietnam,52. Bulgaria,52. North Korea,52. Sweden
+53. Venezuela,53. South Africa,53. Haiti,53. Papua New Guinea,53. Bolivia,53. Nigeria,53. Djibouti,53. Australia
+54. Australia,54. Mali,54. Burundi,54. Djibouti,54. Mozambique,54. Netherlands,54. Ecuador,54. Belgium
+55. Niger,55. Chile,55. Equatorial Guinea,55. Uzbekistan,55. Zimbabwe,55. Colombia,55. Indonesia,55. Venezuela
+56. North Korea,56. Iraq,56. Albania,56. Togo,56. Dominican Republic,56. South Korea,56. Tanzania,56. Slovenia
+57. Syria,57. Saudi Arabia,57. Solomon Islands,57. Sri Lanka,57. Trinidad and Tobago,57. Cameroon,57. Malawi,57. Azerbaijan
+58. Burkina Faso,58. DR Congo,58. Armenia,58. Kenya,58. Cambodia,58. Panama,58. Benin,58. Cuba
+59. Mali,59. Ireland,59. Lesotho,59. Ecuador,59. Belarus,59. North Macedonia,59. Tajikistan,59. Trinidad and Tobago
+60. Sri Lanka,60. Jordan,60. Belgium,60. Angola,60. Myanmar,60. Denmark,60. Afghanistan,60. Uruguay
+61. Kazakhstan,61. North Macedonia,61. Moldova,61. Sierra Leone,61. Cameroon,61. Switzerland,61. Serbia,61. Pakistan
+62. Malawi,62. Burkina Faso,62. Guinea-Bissau,62. Philippines,62. Bosnia and Herzegovina,62. Chile,62. Cambodia,62. Denmark
+63. Chile,63. Honduras,63. Bhutan,63. Panama,63. Saint Kitts and Nevis,63. Slovakia,63. Ethiopia,63. Finland
+64. Zambia,64. Albania,64. Switzerland,64. Mongolia,64. Liechtenstein,64. Saudi Arabia,64. Yemen,64. Bangladesh
+65. Romania,65. United Arab Emirates,65. Netherlands,65. Laos,65. Nepal,65. Mali,65. Kenya,65. Haiti
+66. Somalia,66. Georgia,66. Denmark,66. Bosnia and Herzegovina,66. Senegal,66. Romania,66. Eswatini,66. Bosnia and Herzegovina
+67. Chad,67. Jamaica,67. Estonia,67. Belarus,67. Georgia,67. Austria,67. Colombia,67. Sri Lanka
+68. Senegal,68. Cape Verde,68. Dominican Republic,68. Turkey,68. Slovakia,68. Cuba,68. South Sudan,68. Switzerland
+69. Netherlands,69. Finland,69. Slovakia,69. Thailand,69. North Macedonia,69. Bahrain,69. Zimbabwe,69. Afghanistan
+70. Guatemala,70. Bosnia and Herzegovina,70. Costa Rica,70. Niger,70. Canada,70. Cyprus,70. Mexico,70. Slovakia
+71. Cambodia,71. Iceland,71. Bosnia and Herzegovina,71. Nepal,71. Paraguay,71. Guinea,71. Togo,71. Norway
+72. Ecuador,72. Ghana,72. Croatia,72. Malawi,72. Thailand,72. DR Congo,72. Montenegro,72. Jordan
+73. Zimbabwe,73. Israel,73. Togo,73. Brazil,73. New Zealand,73. Syria,73. Cyprus,73. Belarus
+74. South Sudan,74. Bolivia,74. Latvia,74. Algeria,74. Spain,74. Kazakhstan,74. Nicaragua,74. Ecuador
+75. Guinea,75. Oman,75. Lithuania,75. Ukraine,75. Vanuatu,75. India,75. Namibia,75. Costa Rica
+76. Rwanda,76. Gabon,76. Sri Lanka,76. Serbia,76. Portugal,76. Nicaragua,76. Papua New Guinea,76. Latvia
+77. Benin,77. Montenegro,77. Georgia,77. Dominican Republic,77. Bulgaria,77. Costa Rica,77. Eritrea,77. Ireland
+78. Burundi,78. Guinea,78. Ireland,78. Morocco,78. Central African Republic,78. Norway,78. Israel,78. Paraguay
+79. Tunisia,79. Uganda,79. Sierra Leone,79. Lesotho,79. Lithuania,79. Ireland,79. Croatia,79. New Zealand
+80. Haiti,80. New Zealand,80. Panama,80. Indonesia,80. Ghana,80. Qatar,80. Poland,80. Montenegro
+81. Belgium,81. Zambia,81. Czech Republic,81. Ethiopia,81. Croatia,81. Paraguay,81. Palestine,81. Malta
+82. Papua New Guinea,82. Bulgaria,82. United Arab Emirates,82. Argentina,82. Czech Republic,82. Uganda,82. Singapore,82. Libya
+83. Jordan,83. Haiti,83. Austria,83. Maldives,83. Sierra Leone,83. Indonesia,83. Ghana,83. Bahamas
+84. Bolivia,84. Bahrain,84. Azerbaijan,84. India,84. Luxembourg,84. Luxembourg,84. Romania,84. Israel
+85. Cuba,85. Angola,85. Serbia,85. Gambia,85. Sri Lanka,85. Iraq,85. Georgia,85. Iraq
+86. Czech Republic,86. El Salvador,86. Jordan,86. Zambia,86. Saint Lucia,86. Rwanda,86. San Marino,86. Singapore
+87. Dominican Republic,87. Syria,87. Portugal,87. Tunisia,87. Andorra,87. Thailand,87. Oman,87. Jamaica
+88. United Arab Emirates,88. Benin,88. Hungary,88. Guyana,88. United States,88. Central African Republic,88. Malaysia,88. Iceland
+89. Portugal,89. China,89. South Korea,89. Colombia,89. Mexico,89. Armenia,89. Paraguay,89. Dominican Republic
+90. Sweden,90. Equatorial Guinea,90. Iceland,90. Vietnam,90. Norway,90. Andorra,90. Jamaica,90. Armenia
+91. Greece,91. Luxembourg,91. Guatemala,91. Suriname,91. Tuvalu,91. Jamaica,91. Italy,91. Kazakhstan
+92. Tajikistan,92. Mozambique,92. Cuba,92. North Macedonia,92. Italy,92. Libya,92. Mozambique,92. Qatar
+93. Azerbaijan,93. Guatemala,93. Bulgaria,93. Kazakhstan,93. Guatemala,93. Albania,93. Costa Rica,93. Albania
+94. Israel,94. Palestine,94. Liberia,94. Trinidad and Tobago,94. Germany,94. Palestine,94. Albania,94. Bolivia
+95. Honduras,95. Belarus,95. Honduras,95. Tanzania,95. Serbia,95. Malta,95. Greece,95. Nigeria
+96. Hungary,96. Thailand,96. Benin,96. South Africa,96. Switzerland,96. Kenya,96. Botswana,96. Laos
+97. Austria,97. Trinidad and Tobago,97. Eritrea,97. Hungary,97. France,97. El Salvador,97. Argentina,97. Nicaragua
+98. Belarus,98. Armenia,98. Malawi,98. Cuba,98. Cuba,98. Mongolia,98. Slovenia,98. Nepal
+99. Switzerland,99. Tajikistan,99. North Korea,99. Burkina Faso,99. Poland,99. Madagascar,99. Latvia,99. Cameroon
+100. Sierra Leone,100. Comoros,100. Nicaragua,100. Ghana,100. Greece,100. United Arab Emirates,100. Slovakia,100. Mongolia
